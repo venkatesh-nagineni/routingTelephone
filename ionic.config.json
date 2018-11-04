@@ -1,5 +1,7 @@
 {
   "name": "routing_telephone",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
